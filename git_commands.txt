@@ -1,5 +1,0 @@
-List of Git Commands:
-
-git add -A
-git commit -m "Enter Filename"
-git push -u origin master
